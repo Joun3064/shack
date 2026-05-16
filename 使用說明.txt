@@ -1,0 +1,2 @@
+學長 如果要建立基準面的話 打開test裡面的calibration.m
+要重建波前的話 打開test裡面的reconstruction.m
